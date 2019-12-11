@@ -1,24 +1,8 @@
 {
-    "name": "ghy/wechat_search_api",
-    "type": "library",
-    "description": "api for wechat subscribe account and articles by sogou search",
-    "keywords": ["sogou","wechat","search","api"],
-    "homepage": "",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "ghy",
-            "email": " 2@qq.com",
-            "homepage": "",
-            "role": "Developer"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.0"
-    },
+    "name": "neworiental/composer-haiyang-demo",
     "autoload": {
         "psr-4": {
-            "ghy": "src"
+            "Haiyang\\ComposerPackageDemo\\": "src/"
         }
     }
 }
