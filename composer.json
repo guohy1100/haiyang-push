@@ -1,8 +1,8 @@
 {
     "name": "neworiental/composer-haiyang-demo",
     "autoload": {
-        "psr-4": {
-            "Haiyang\\ComposerPackageDemo\\": "src/"
+        "psr-0": {
+            "Test": "src/"
         }
     }
 }

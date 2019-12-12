@@ -1,6 +1,4 @@
 <?php
-namespace Haiyang\ComposerPackageDemo;
- 
 class Test
 {
     public function Test()
